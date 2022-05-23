@@ -22,7 +22,7 @@ copyright = '2022, Ghost114514'
 author = 'Ghost114514, AlexB'
 
 # The full version, including alpha/beta/rc tags
-release = '0.a'
+release = 'Ares3.0(p1)/Doc0.a'
 
 
 # -- General configuration ---------------------------------------------------
