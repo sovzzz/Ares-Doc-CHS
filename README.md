@@ -8,12 +8,18 @@
 
 Ghost114514
 
- [The Ares Contributors](http://ares-developers.github.io/Ares-docs/credits.html) 
+ [Ares的贡献者们](http://ares-developers.github.io/Ares-docs/credits.html) 
+
+RA2DIY版Ares3.0文档翻译者
 
 
 #### Q&A
 
-Q：该版本翻译与目前应用的RA2DIY版有何异同？
+Q：该版本与Ares贡献者中负责中文翻译的僵尸z工程（Project z Zomboid）有关联吗？
+
+A：无任何关联。该版本翻译的贡献者实际上不包含此人。
+
+Q：该版本翻译与目前广泛使用的RA2DIY版有何异同？
 
 A：有以下异同
 
