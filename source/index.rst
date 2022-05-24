@@ -20,7 +20,7 @@ Ares文档
 	ui-features/index
 	*
 
-* :ref:`Overview of Ares's Bugfixes and Features <genindex>`
+* :ref:`Ares的Bug修复和特有功能总览 <genindex>`
 * :ref:`search`
 
 .. include:: intro.rst

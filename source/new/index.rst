@@ -4,8 +4,9 @@
 本章记录了添加到游戏中的所有全新功能。
 
 	:glob:
+	.. toctree::
+
 	
-	*
 	sidescountries/index
 	buildings/index
 	cloak/index
@@ -15,4 +16,5 @@
 	superweapons/index
 	tiberium/index
 	misc/index
+	**
 
