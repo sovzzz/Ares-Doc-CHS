@@ -10,7 +10,7 @@ Ghost114514
 
  [Ares的贡献者们](http://ares-developers.github.io/Ares-docs/credits.html) 
 
-RA2DIY版Ares3.0文档翻译者
+RA2DIY版Ares3.0文档翻译者们（MK，十進制，一插一，L，紫色放逐，夏恋的花语，Noble_cat）
 
 
 #### Q&A
