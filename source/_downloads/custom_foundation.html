@@ -2,8 +2,9 @@
 "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
+	<meta charset="UTF-8">
 	<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
-	<title>Ares - Custom Foundation Generator</title>
+	<title>Ares - 自定义占地生成器</title>
 	<style  type="text/css">
 		/* #################################### CSS #################################### */
 		BODY {
@@ -231,55 +232,55 @@
 <!-- #################################### HTML #################################### -->
 	<!-- Header -->
 	<div id="layout_header">
-		<span>Ares Custom Foundation Generator</span>
+		<span>Ares自定义占地生成器</span>
 	</div>
 	<!-- Base parameter block -->
 	<div id="layout_params">
-		<h1>Foundation</h1>
+		<h1>占地</h1>
 		<form id="widthheight" action="./">
 			<p>
-				<label for="name">Building (art) Name:</label>
+				<label for="name">建筑（art）名称</label>
 				<input type="text" name="name_n" id="name" value="CATEMP">
 			</p>
 			<p>
-				<label for="width">X / Width:</label>
+				<label for="width">X / 宽:</label>
 				<input type="text" name="width_n" id="width" value="5" maxlength="3">
 				&nbsp;&nbsp;&nbsp;
-				<label for="height">Y / Height:</label>
+				<label for="height">Y / 高:</label>
 				<input type="text" name="height_n" id="height" value="5" maxlength="3">
 				&nbsp;&nbsp;&nbsp;
-				<input type="submit" name="set_params_n" id="set_params" value="Set Base Parameters">
+				<input type="submit" name="set_params_n" id="set_params" value="设置基本参数">
 			</p>
 		</form>
 		<!-- Warnings, these only pop up if there's stuff to complain about. -->
-		<p id="number_warning_x" style="display: none;">Warning! Your <em>width</em> is either <em>0 (zero)</em> or could <em>not</em> be <em>recognized</em> as a number! Please check your input.</p>
-		<p id="number_warning_y" style="display: none;">Warning! Your <em>height</em> is either <em>0 (zero)</em> or could <em>not</em> be <em>recognized</em> as a number! Please check your input.</p>
-		<p id="name_warning" style="display: none;">Warning! Your building/art <em>name</em> is either <em>empty or</em> contains <em>whitespace</em>. Please check your input.</p>
-		<p id="name_note" style="display: none;">Attention: Your building/art name is longer than 8 characters. While that is possible, it is non-standard and not recommended.</p>
+		<p id="number_warning_x" style="display: none;">警告！你的<em>宽</em>是<em>0 (zero)</em>或者<em>无法</em>被<em>识别</em>成数字！请检查你的输入！</p>
+		<p id="number_warning_y" style="display: none;">警告！你的<em>高</em>是<em>0 (zero)</em>或者<em>无法</em>被<em>识别</em>成数字！请检查你的输入！</p>
+		<p id="name_warning" style="display: none;">警告！你的建筑/art <em>ID</em> 是<em>空的</em>或者包含<em>空格</em>。请检查你的输入。</p>
+		<p id="name_note" style="display: none;">注意：你的建筑/art名称长于8个字符。尽管仍能运行，但它不标准，也不推荐这样做</p>
 	</div>
 	
 	<!-- The canvas to "draw" on -->
 	<div id="layout_canvas">
-		<div id="hint">Select/unselect cells with the left mouse button, place outline cells with <em>[Ctrl]</em>+click.</div>
+		<div id="hint">用鼠标左键选中或反选，用<em>[Ctrl]</em>+左键放置outline格。</div>
 		<!-- The corner labels are necessary for browsers who don't support rotation, and thus see the canvas 45° left -->
 		<div id="sidelabels" style="display: none;">
-			<div id="label_top">Top / 0</div>
-			<div id="label_right">Right / X</div>
+			<div id="label_top">上 / 0</div>
+			<div id="label_right">右 / X</div>
 			<table id="editor"><tr><td>dummy data to silence validator</td></tr></table>
-			<div id="label_bottom">Bottom</div>
-			<div id="label_left">Left / Y</div>
+			<div id="label_bottom">下</div>
+			<div id="label_left">左 / Y</div>
 		</div>
 		<!-- Outlines & clear buttons -->
-		<div id="controlbuttons"><input type="button" name="outlnbtn_n" id="outlnbtn" value="Generate Outline">&nbsp;<input type="button" name="clearbtn_n" id="clearbtn" value="Clear Cells"></div>
+		<div id="controlbuttons"><input type="button" name="outlnbtn_n" id="outlnbtn" value="生成Outline">&nbsp;<input type="button" name="clearbtn_n" id="clearbtn" value="清空格子"></div>
 	</div>
 	<!-- Code text and .10 outline warning -->
 	<div id="layout_code">
-		<h1>Code</h1>
-		<textarea id="code" readonly="readonly" cols="48" rows="16">Please enter name, width and height at the top and click "Set Base Parameters".</textarea>
-		<p id="warfac_note" style="display: none;"><strong>Note on War Factories and outlines:</strong> On War Factories, the game uses FoundationOutline.10 as the primary exit destination for newly spawned units, using the eight adjacent cells as alternative destinations. These cells basically form what the game sees as the factory's "bib", regardless of graphics.<br>You are seeing this message because you have no FoundationOutline.10 defined - if you are not making a foundation for a War Factory, this note can be ignored.<br>You can set FoundationOutline.10 manually by shift-clicking anywhere on the canvas.</p>
+		<h1>代码</h1>
+		<textarea id="code" readonly="readonly" cols="48" rows="16">请在上面输入名称、宽和高并点击“设置基本参数”。</textarea>
+		<p id="warfac_note" style="display: none;"><strong>关于军工厂和outline的注意：</strong>在军工厂中游戏使用FoundationOutline.10作为初始的新产出单位出厂目的地，使用八个相邻的单元格作为替代目的地。而不管图形如何,这些单元格基本上构成了游戏所认为的工厂的“Bib”。<br>您看到此消息是因为您没有定义 FoundationOutline.10 - 如果您不是为军工厂设置占地，则可以忽略此注释。<br>您可以通过按住 Shift 键单击画布上的任意位置来手动设置 FoundationOutline.10。</p>
 	</div>
 
-	<div id="layout_footer">Written 29.09.09 by Renegade</div>
+	<div id="layout_footer">Renegade写于09年9月29日<br>Ghost114514翻译于22年5月28日</div>
 	
 	<!-- #################################### JAVASCRIPT #################################### -->
 	<!-- <script type="text/javascript" src="http://www.google.com/jsapi"></script> -->
@@ -299,7 +300,7 @@
 			$("#widthheight").submit(); // trigger event to create default canvas
 			$("#clearbtn").click(function() {updateCode(true);});
 			$("#outlnbtn").click(generateOutline);
-			$("#code").val("Please enter name, width and height at the top and click \"Set Base Parameters\"."); // FF saves the value over refreshes, leaving old foundation data with empty canvases without this.
+			$("#code").val("请在上面输入名称、宽和高并点击“设置基本参数”。"); // FF saves the value over refreshes, leaving old foundation data with empty canvases without this.
 		});
 	</script> -->
 	
@@ -317,7 +318,7 @@
 			$("#widthheight").submit(); // trigger event to create default canvas
 			$("#clearbtn").click(function() {updateCode(true);});
 			$("#outlnbtn").click(generateOutline);
-			$("#code").val("Please enter name, width and height at the top and click \"Set Base Parameters\"."); // FF saves the value over refreshes, leaving old foundation data with empty canvases without this.
+			$("#code").val("请在上面输入名称、宽和高并点击“设置基本参数”。"); // FF saves the value over refreshes, leaving old foundation data with empty canvases without this.
 		}
 	
 		$(document).ready(setup);
