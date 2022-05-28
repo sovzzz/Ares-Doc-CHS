@@ -146,7 +146,7 @@
    transform="matrix(1,0,0,-1,254.404,717.5)"
    style="fill:#008000"><tspan
      style="fill:#ff0000;fill-opacity:1"
-     id="tspan5674">NO</tspan></text>
+     id="tspan5674">否</tspan></text>
 
 
 
@@ -167,7 +167,7 @@
          transform="matrix(1.25,0,0,-1.25,4,1056.5)"><text
    id="text2758"
    transform="matrix(1,0,0,-1,254.404,681.5)"
-   style="fill:#008000">YES</text>
+   style="fill:#008000">是</text>
 
 
 
@@ -184,7 +184,7 @@
          transform="matrix(1.25,0,0,-1.25,4,1056.5)"><text
    id="text2796"
    transform="matrix(1,0,0,-1,254.404,645.5)"
-   style="fill:#ff0000">NO</text>
+   style="fill:#ff0000">否</text>
 
 
 
@@ -202,7 +202,7 @@
          transform="matrix(1.25,0,0,-1.25,4,1056.5)"><text
    id="text2824"
    transform="matrix(1,0,0,-1,254.404,609.5)"
-   style="fill:#ff0000">NO</text>
+   style="fill:#ff0000">否</text>
 
 
 
@@ -220,7 +220,7 @@
          transform="matrix(1.25,0,0,-1.25,4,1056.5)"><text
    id="text2866"
    transform="matrix(1,0,0,-1,254.404,573.5)"
-   style="fill:#008000">NO</text>
+   style="fill:#008000">否</text>
 
 
 
@@ -238,7 +238,7 @@
          transform="matrix(1.25,0,0,-1.25,2,1056.5)"><text
    id="text2918"
    transform="matrix(1,0,0,-1,254.404,537.5)"
-   style="fill:#008000">YES</text>
+   style="fill:#008000">是</text>
 
 
 
@@ -256,7 +256,7 @@
          transform="matrix(1.25,0,0,-1.25,2,1056.5)"><text
    id="text2956"
    transform="matrix(1,0,0,-1,254.404,501.5)"
-   style="fill:#008000">YES</text>
+   style="fill:#008000">是</text>
 
 
 
@@ -274,7 +274,7 @@
          id="g3265"><text
    style="fill:#008000"
    transform="matrix(1,0,0,-1,254.404,501.5)"
-   id="text3267">YES</text>
+   id="text3267">是</text>
 
 
 
@@ -292,7 +292,7 @@
          transform="matrix(1.25,0,0,-1.25,4,1056.5)"><text
    id="text2994"
    transform="matrix(1,0,0,-1,254.404,465.5)"
-   style="fill:#008000">NO</text>
+   style="fill:#008000">否</text>
 
 
 
@@ -309,7 +309,7 @@
          transform="matrix(1.25,0,0,-1.25,4,1056.5)"><text
    id="text3080"
    transform="matrix(1,0,0,-1,254.404,411.5)"
-   style="fill:#008000">NO</text>
+   style="fill:#008000">否</text>
 
 
 
@@ -326,7 +326,7 @@
          transform="matrix(1.25,0,0,-1.25,2,1056.5)"><text
    id="text3120"
    transform="matrix(1,0,0,-1,254.404,375.5)"
-   style="fill:#008000">YES</text>
+   style="fill:#008000">是</text>
 
 
 
@@ -345,7 +345,7 @@
            id="g3216"><text
    id="text3222"
    transform="matrix(1,0,0,-1,254.404,339.5)"
-   style="fill:#ff0000">YES</text>
+   style="fill:#ff0000">是</text>
 
 
 
@@ -362,7 +362,7 @@
          transform="matrix(1.25,0,0,-1.25,2,1056.5)"><text
    id="text3270"
    transform="matrix(1,0,0,-1,254.404,285.5)"
-   style="fill:#008000">YES</text>
+   style="fill:#008000">是</text>
 
 
 
@@ -379,7 +379,7 @@
          transform="matrix(1.25,0,0,-1.25,2,1056.5)"><text
    id="text3318"
    transform="matrix(1,0,0,-1,146.404,249.5)"
-   style="fill:#008000">YES</text>
+   style="fill:#008000">是</text>
 
 
 
@@ -398,7 +398,7 @@
            id="g3360"><text
    id="text3368"
    transform="matrix(1,0,0,-1,362.4,249.5)"
-   style="fill:#ff0000">NO</text>
+   style="fill:#ff0000">否</text>
 
 
 
@@ -415,7 +415,7 @@
          transform="matrix(1.25,0,0,-1.25,2,1056.5)"><text
    id="text3506"
    transform="matrix(1,0,0,-1,101.404,213.5)"
-   style="fill:#ff0000">YES</text>
+   style="fill:#ff0000">是</text>
 
 
 
@@ -432,7 +432,7 @@
          transform="matrix(1.25,0,0,-1.25,4,1056.5)"><text
    id="text3414"
    transform="matrix(1,0,0,-1,200.404,213.5)"
-   style="fill:#008000">NO</text>
+   style="fill:#008000">否</text>
 
 
 
@@ -449,7 +449,7 @@
          transform="matrix(1.25,0,0,-1.25,4,1056.5)"><text
    id="text3482"
    transform="matrix(1,0,0,-1,308.404,213.5)"
-   style="fill:#008000">NO</text>
+   style="fill:#008000">否</text>
 
 
 
@@ -466,7 +466,7 @@
          transform="matrix(1.25,0,0,-1.25,2,1056.5)"><text
    id="text3530"
    transform="matrix(1,0,0,-1,407.404,213.5)"
-   style="fill:#ff0000">YES</text>
+   style="fill:#ff0000">是</text>
 
 
 
@@ -483,7 +483,7 @@
          transform="matrix(1.25,0,0,-1.25,5.9229386,1052.5)"><text
    id="text3594"
    transform="matrix(1,0,0,-1,452.404,357.5)"
-   style="fill:#008000">NO</text>
+   style="fill:#008000">否</text>
 
 
 
@@ -503,7 +503,7 @@
          transform="matrix(1.25,0,0,-1.25,4,1056.5)"><text
    id="text2758-3"
    transform="matrix(1,0,0,-1,254.404,681.5)"
-   style="fill:#008000">NO</text>
+   style="fill:#008000">否</text>
 
 
 </g><path
@@ -520,7 +520,7 @@
          transform="matrix(1.25,0,0,-1.25,2,1056.5)"><text
    id="text2484-7"
    transform="matrix(1,0,0,-1,254.404,717.5)"
-   style="fill:#008000">YES</text>
+   style="fill:#008000">是</text>
 
 
 </g><path
@@ -536,7 +536,7 @@
          transform="matrix(1.25,0,0,-1.25,0,1052.5)"><text
    id="text2838"
    transform="matrix(1,0,0,-1,32.6,627.5)"
-   style="fill:#008000">YES</text>
+   style="fill:#008000">是</text>
 
 
 
@@ -546,7 +546,7 @@
          transform="matrix(1.25,0,0,-1.25,0,1052.5)"><text
    id="text2556"
    transform="matrix(1,0,0,-1,32.6,663.5)"
-   style="fill:#008000">YES</text>
+   style="fill:#008000">是</text>
 
 
 
@@ -566,7 +566,7 @@
          transform="matrix(1.25,0,0,-1.25,-2.96875e-4,962.32763)"><text
    id="text2556-6"
    transform="matrix(1,0,0,-1,32.6,663.5)"
-   style="fill:#008000">YES</text>
+   style="fill:#008000">是</text>
 
 
 </g><path
@@ -582,7 +582,7 @@
          transform="matrix(1.25,0,0,-1.25,-0.5903358,962.49993)"><text
    id="text2460"
    transform="matrix(1,0,0,-1,457.6,735.5)"
-   style="fill:#ff0000">NO</text>
+   style="fill:#ff0000">否</text>
 
 
 
@@ -592,7 +592,7 @@
          transform="matrix(1.25,0,0,-1.25,0,962.49993)"><text
    id="text2772"
    transform="matrix(1,0,0,-1,455.6,699.5)"
-   style="fill:#ff0000">YES</text>
+   style="fill:#ff0000">是</text>
 
 
 
@@ -602,7 +602,7 @@
          transform="matrix(1.25,0,0,-1.25,0,1052.5)"><text
    id="text2894"
    transform="matrix(1,0,0,-1,455.6,591.5)"
-   style="fill:#ff0000">YES</text>
+   style="fill:#ff0000">是</text>
 
 
 
@@ -612,7 +612,7 @@
          transform="matrix(1.25,0,0,-1.25,-0.5903358,1052.5)"><text
    id="text2880"
    transform="matrix(1,0,0,-1,457.6,555.5)"
-   style="fill:#ff0000">NO</text>
+   style="fill:#ff0000">否</text>
 
 
 
@@ -622,7 +622,7 @@
          transform="matrix(1.25,0,0,-1.25,0,1121.9996)"><text
    id="text3008"
    transform="matrix(1,0,0,-1,455.6,438.5)"
-   style="fill:#ff0000">YES</text>
+   style="fill:#ff0000">是</text>
 
 
 
@@ -632,7 +632,7 @@
          transform="matrix(1.25,0,0,-1.25,-0.5903358,1052.5)"><text
    id="text2932"
    transform="matrix(1,0,0,-1,457.6,519.5)"
-   style="fill:#ff0000">NO</text>
+   style="fill:#ff0000">否</text>
 
 
 
@@ -642,7 +642,7 @@
          transform="matrix(1.25,0,0,-1.25,0,1052.5)"><text
    id="text2970"
    transform="matrix(1,0,0,-1,455.6,483.5)"
-   style="fill:#ff0000">YES</text>
+   style="fill:#ff0000">是</text>
 
 
 
@@ -652,7 +652,7 @@
          transform="matrix(1.25,0,0,-1.25,-0.5903358,1121.9996)"><text
    id="text3144"
    transform="matrix(1,0,0,-1,457.6,393.5)"
-   style="fill:#ff0000">NO</text>
+   style="fill:#ff0000">否</text>
 
 
 
@@ -662,7 +662,7 @@
          transform="matrix(1.25,0,0,-1.25,-0.5903358,1121.9999)"><text
    id="text3624"
    transform="matrix(1,0,0,-1,457.6,312.5)"
-   style="fill:#ff0000">NO</text>
+   style="fill:#ff0000">否</text>
 
 
 
@@ -718,7 +718,7 @@
          transform="matrix(1.25,0,0,-1.25,-0.59071875,1097.4999)"><text
    id="text2460-5"
    transform="matrix(1,0,0,-1,457.6,735.5)"
-   style="fill:#ff0000">NO</text>
+   style="fill:#ff0000">否</text>
 
 
 </g><g
@@ -727,7 +727,7 @@
          id="g3308"><text
    style="fill:#ff0000"
    transform="matrix(1,0,0,-1,457.6,519.5)"
-   id="text3310">NO</text>
+   id="text3310">否</text>
 
 
 
@@ -753,7 +753,7 @@
    transform="scale(1,-1)"
    style="text-anchor:middle"
    x="252"
-   y="-730.40002">Object has been reverse-engineered by player</text>
+   y="-730.40002">玩家进行了对象的逆向工程</text>
 
 
 
@@ -771,10 +771,10 @@
    transform="scale(1,-1)"
    style="text-anchor:middle"
    x="252"
-   y="-694.53052">Player has all necessary <tspan
+   y="-694.53052">玩家拥有所有必要的<tspan
    id="flag_2"
    sodipodi:role="inline"
-   style="fill:#011eff;font-family:monospace">Prerequisite.StolenTechs </tspan>or object needs none</text>
+   style="fill:#011eff;font-family:monospace">Prerequisite.StolenTechs</tspan>或者对象不需要此项</text>
 
 
 
@@ -792,10 +792,10 @@
    transform="scale(1,-1)"
    style="text-anchor:middle"
    x="252"
-   y="-658.58362">Player owns one or more objects from <tspan
+   y="-658.58362">玩家拥有<tspan
    id="flag_3"
    sodipodi:role="inline"
-   style="fill:#011eff;font-family:monospace">PrerequisiteOverride</tspan></text>
+   style="fill:#011eff;font-family:monospace">PrerequisiteOverride</tspan>中的一个或多个对象</text>
 
 
 
@@ -813,7 +813,7 @@
    transform="scale(1,-1)"
    style="text-anchor:middle"
    x="252"
-   y="-622.91144">Object was awarded by a Secret Lab</text>
+   y="-622.91144">秘密实验室奖励了对象</text>
 
 
 
@@ -834,7 +834,7 @@
    y="-586.27216"><tspan
    style="fill:#e600ae;font-family:monospace"
    sodipodi:role="inline"
-   id="tspan9252">TechLevel=-1</tspan> (only relevant to human players)</text>
+   id="tspan9252">TechLevel=-1</tspan>（只和人类玩家有关）</text>
 
 
 
@@ -852,7 +852,7 @@
    transform="scale(1,-1)"
    style="text-anchor:middle"
    x="252"
-   y="-550.5">Player has all necessary stolen tech</text>
+   y="-550.5">玩家拥有所有的渗透科技</text>
 
 
 
@@ -870,10 +870,10 @@
    transform="scale(1,-1)"
    style="text-anchor:middle"
    x="252"
-   y="-515">Player's country is listed against <tspan
+   y="-515">玩家国家在<tspan
    id="flag_4"
    sodipodi:role="inline"
-   style="fill:#e600ae;font-family:monospace">RequiredHouses</tspan></text>
+   style="fill:#e600ae;font-family:monospace">RequiredHouses</tspan>中</text>
 
 
 
@@ -891,10 +891,10 @@
    transform="scale(1,-1)"
    style="text-anchor:middle"
    x="252"
-   y="-478.58359">Player's country is listed against <tspan
+   y="-478.58359">玩家国家在<tspan
    id="flag_5"
    sodipodi:role="inline"
-   style="fill:#e600ae;font-family:monospace">ForbiddenHouses</tspan></text>
+   style="fill:#e600ae;font-family:monospace">ForbiddenHouses</tspan>中</text>
 
 
 
@@ -912,19 +912,19 @@
          transform="scale(1,-1)"
          style="text-anchor:middle"
          x="252"
-         y="-494.78348">Player has any factory built by a <tspan
+         y="-494.78348">玩家拥有一个<tspan
    id="tspan4128"
    sodipodi:role="inline"
-   style="fill:#011eff;font-family:monospace;fill-opacity:1">FactoryOwners</tspan> country</text>
+   style="fill:#011eff;font-family:monospace;fill-opacity:1">FactoryOwners</tspan>国家建造的任意工厂</text>
 <text
          y="-480.98355"
          x="252"
          style="text-anchor:middle"
          transform="scale(1,-1)"
-         id="text3275">or any factory not built by a <tspan
+         id="text3275">或者不是由<tspan
    style="fill:#011eff;font-family:monospace;fill-opacity:1"
    sodipodi:role="inline"
-   id="tspan3277">FactoryOwners.Forbidden</tspan> country</text>
+   id="tspan3277">FactoryOwners.Forbidden</tspan>国家建造的任意工厂</text>
 </g><g
        id="box_9"
        inkscape:label="#g4555"><path
@@ -937,13 +937,13 @@
    transform="scale(1,-1)"
    style="text-anchor:middle"
    x="252"
-   y="-440">Object is not listed against <tspan
+   y="-440">对象不在<tspan
    id="flag_6"
    sodipodi:role="inline"
    style="fill:#e600ae;font-family:monospace">[AI]</tspan>►<tspan
    id="flag_7"
    sodipodi:role="inline"
-   style="fill:#e600ae;font-family:monospace">BuildTech</tspan>, object has a <tspan
+   style="fill:#e600ae;font-family:monospace">BuildTech</tspan>中，对象有一个<tspan
    id="flag_8"
    sodipodi:role="inline"
    style="fill:#e600ae;font-family:monospace">SuperWeapon</tspan>,</text>
@@ -956,10 +956,10 @@
    transform="scale(1,-1)"
    style="text-anchor:middle"
    x="252"
-   y="-427">and that super weapon has <tspan
+   y="-427">而且这个超级武器设置了<tspan
    id="flag_9"
    sodipodi:role="inline"
-   style="fill:#e600ae;font-family:monospace">DisableableFromShell=yes</tspan> set</text>
+   style="fill:#e600ae;font-family:monospace">DisableableFromShell=yes</tspan></text>
 
 
 
@@ -979,7 +979,7 @@
    y="-388.99509"><tspan
    id="flag_10"
    sodipodi:role="inline"
-   style="fill:#e600ae;font-family:monospace">TechLevel</tspan> is less than or equal to <tspan
+   style="fill:#e600ae;font-family:monospace">TechLevel</tspan>小于等于<tspan
    id="flag_11"
    sodipodi:role="inline"
    style="fill:#e600ae;font-family:monospace">[MultiplayerDialogSettings]</tspan>►<tspan
@@ -1016,7 +1016,7 @@
    transform="scale(1,-1)"
    style="text-anchor:middle"
    x="252"
-   y="-353">Player is human-controlled (as opposed to computer-controlled)</text>
+   y="-353">人类控制的玩家（相对于电脑玩家）</text>
 
 
 
@@ -1033,10 +1033,11 @@
    transform="scale(1,-1)"
    style="text-anchor:middle"
    x="252"
-   y="-314">Player owns at least one of each object from <tspan
+   y="-314">玩家满足<tspan
    id="flag_13"
    sodipodi:role="inline"
-   style="fill:#011eff;font-family:monospace">Prerequisite</tspan> or</text>
+   style="fill:#011eff;font-family:monospace">Prerequisite</tspan>或
+</text>
 
 
 
@@ -1046,13 +1047,18 @@
    id="text_prereq_list"
    x="252"
    y="-301"
-   style="text-anchor:middle"><tspan
+   style="text-anchor:middle">#在1和
+    <tspan
    style="fill:#011eff;font-family:monospace"
    sodipodi:role="inline"
-   id="tspan3923">Prerequisite.List#</tspan> where # is between 1 and <tspan
+   id="flag_15">Prerequisite.Lists</tspan>
+   之间的
+   <tspan
    style="fill:#011eff;font-family:monospace"
    sodipodi:role="inline"
-   id="flag_15">Prerequisite.Lists</tspan></text>
+   id="tspan3923">Prerequisite.List#</tspan>
+   中至少一个
+   </text>
 
 
 
@@ -1072,7 +1078,7 @@
    y="-262.58362"><tspan
    id="flag_14"
    sodipodi:role="inline"
-   style="fill:#e600ae;font-family:monospace">BuildLimit</tspan> is positive</text>
+   style="fill:#e600ae;font-family:monospace">BuildLimit</tspan>是正的</text>
 
 
 
@@ -1089,10 +1095,10 @@
    transform="scale(1,-1)"
    style="text-anchor:middle"
    x="144"
-   y="-227"><tspan
+   y="-227">达到<tspan
    id="flag_16"
    sodipodi:role="inline"
-   style="fill:#e600ae;font-family:monospace">BuildLimit</tspan> reached</text>
+   style="fill:#e600ae;font-family:monospace">BuildLimit</tspan></text>
 
 
 
@@ -1109,10 +1115,10 @@
    transform="scale(1,-1)"
    style="text-anchor:middle"
    x="360"
-   y="-227"><tspan
+   y="-227">达到<tspan
    id="flag_17"
    sodipodi:role="inline"
-   style="fill:#e600ae;font-family:monospace">BuildLimit</tspan> reached</text>
+   style="fill:#e600ae;font-family:monospace">BuildLimit</tspan></text>
 
 
 
@@ -1129,7 +1135,7 @@
    transform="scale(1,-1)"
    x="252"
    y="-187"
-   style="font-size:120.04089355%;font-weight:bold;text-anchor:middle">Buildable</text>
+   style="font-size:120.04089355%;font-weight:bold;text-anchor:middle">可建造</text>
 
 
 
@@ -1139,7 +1145,7 @@
    transform="scale(1,-1)"
    x="252"
    y="-175"
-   style="text-anchor:middle">Show Cameo</text>
+   style="text-anchor:middle">显示图标</text>
 
 
 
@@ -1156,7 +1162,7 @@
    transform="scale(1,-1)"
    x="99"
    y="-187"
-   style="font-size:120.04394531%;font-weight:bold;text-anchor:middle">Unbuildable</text>
+   style="font-size:120.04394531%;font-weight:bold;text-anchor:middle">不可建造</text>
 
 
 
@@ -1166,7 +1172,7 @@
    transform="scale(1,-1)"
    x="99"
    y="-175"
-   style="text-anchor:middle">Gray Cameo</text>
+   style="text-anchor:middle">灰色图标</text>
 
 
 
@@ -1183,7 +1189,7 @@
    transform="scale(1,-1)"
    y="-187"
    x="405"
-   style="font-size:120.04547119%;font-weight:bold;text-anchor:middle">Unbuildable</text>
+   style="font-size:120.04547119%;font-weight:bold;text-anchor:middle">不可建造</text>
 
 
 
@@ -1193,7 +1199,7 @@
    transform="scale(1,-1)"
    x="405"
    y="-175"
-   style="text-anchor:middle">Hide Cameo</text>
+   style="text-anchor:middle">隐藏图标</text>
 
 
 
@@ -1212,10 +1218,10 @@
    transform="scale(1,-1)"
    style="text-anchor:middle"
    x="252"
-   y="-694.53052">Player owns one or more objects from <tspan
+   y="-694.53052">玩家拥有<tspan
    id="flag_2-8"
    sodipodi:role="inline"
-   style="fill:#011eff;font-family:monospace">Prerequisite.Negative</tspan></text>
+   style="fill:#011eff;font-family:monospace">Prerequisite.Negative</tspan>中的一个或多个对象</text>
 
 
 </g><g
@@ -1232,10 +1238,10 @@
    transform="scale(1,-1)"
    style="text-anchor:middle"
    x="252"
-   y="-730.40002">Current map theater listed against <tspan
+   y="-730.40002">当前地图作战地区在<tspan
    id="flag_1-1"
    style="fill:#011eff;font-family:monospace"
-   sodipodi:role="inline">Prerequisite.RequiredTheaters</tspan></text>
+   sodipodi:role="inline">Prerequisite.RequiredTheaters</tspan>中</text>
 
 
 </g></g></svg>
