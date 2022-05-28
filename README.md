@@ -1,5 +1,7 @@
 # Ares中文文档
 
+[![幽灵114514/Ares中文文档](https://gitee.com/ghost114514/ares-chinese-documents/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/ghost114514/ares-chinese-documents)
+
 #### 介绍
 
 [Ares](http://ares-developers.github.io/Ares-docs/)是用于扩展《尤里的复仇》功能并修复游戏引擎错误的新工具。本文档为Ares3.0的中文版使用文档。
