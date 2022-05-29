@@ -8,7 +8,7 @@
 
 #### 参与贡献
 
-Ghost114514
+育碧苏联Ubisoviet/Ghost114514
 
  [Ares的贡献者们](http://ares-developers.github.io/Ares-docs/credits.html) 
 
