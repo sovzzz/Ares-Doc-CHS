@@ -6,7 +6,7 @@
 
 `ProduceCashStartup`已扩展为支持负值。该金额将从占领的玩家的帐户中扣除。如果可用的点数小于指定的这个点数，则仍然可以占领或放置建筑物。此外，如果建筑物被`MultiplayPassive=yes`所属占领，则不再授予`ProfedecashStartup`。
 
-与原始游戏不同，`ProduceCashStartup`不必是非空的，`ProduceCashDelay`和`ProducteCashAmount`才能生效。
+与原始游戏不同，`ProduceCashStartup`即便空的，`ProduceCashDelay`和`ProducteCashAmount`也能生效。
 
 *版本 0.9 中的新功能。*
 
