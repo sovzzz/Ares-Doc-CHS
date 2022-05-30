@@ -111,7 +111,7 @@ AI建造建筑时无视 `FactoryOwners`  `FactoryOwners.Forbidden` ，但建造�
 
 ## 概述
 
-以下是当前前置需求系统的流程图(待翻译)。蓝色部分与原始系统相同。粉色部分已被Ares修改或添加。
+以下是当前前置需求系统的流程图。蓝色部分与原始系统相同。粉色部分已被Ares修改或添加。
 
 ![](../_images/prerequisite_system.svg)
 
